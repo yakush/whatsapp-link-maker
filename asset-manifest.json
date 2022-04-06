@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/whatsapp-link-maker/static/css/main.073c9b0a.css",
-    "main.js": "/whatsapp-link-maker/static/js/main.8d545eda.js",
+    "main.css": "/whatsapp-link-maker/static/css/main.063749c0.css",
+    "main.js": "/whatsapp-link-maker/static/js/main.e866e48c.js",
     "static/js/787.e4cbfae5.chunk.js": "/whatsapp-link-maker/static/js/787.e4cbfae5.chunk.js",
     "index.html": "/whatsapp-link-maker/index.html",
-    "main.073c9b0a.css.map": "/whatsapp-link-maker/static/css/main.073c9b0a.css.map",
-    "main.8d545eda.js.map": "/whatsapp-link-maker/static/js/main.8d545eda.js.map",
+    "main.063749c0.css.map": "/whatsapp-link-maker/static/css/main.063749c0.css.map",
+    "main.e866e48c.js.map": "/whatsapp-link-maker/static/js/main.e866e48c.js.map",
     "787.e4cbfae5.chunk.js.map": "/whatsapp-link-maker/static/js/787.e4cbfae5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.8d545eda.js"
+    "static/css/main.063749c0.css",
+    "static/js/main.e866e48c.js"
   ]
 }
