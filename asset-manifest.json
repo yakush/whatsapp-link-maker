@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/whatsapp-link-maker/static/css/main.063749c0.css",
-    "main.js": "/whatsapp-link-maker/static/js/main.7fa5935a.js",
+    "main.js": "/whatsapp-link-maker/static/js/main.a19cd65c.js",
     "static/js/787.e4cbfae5.chunk.js": "/whatsapp-link-maker/static/js/787.e4cbfae5.chunk.js",
     "index.html": "/whatsapp-link-maker/index.html",
     "main.063749c0.css.map": "/whatsapp-link-maker/static/css/main.063749c0.css.map",
-    "main.7fa5935a.js.map": "/whatsapp-link-maker/static/js/main.7fa5935a.js.map",
+    "main.a19cd65c.js.map": "/whatsapp-link-maker/static/js/main.a19cd65c.js.map",
     "787.e4cbfae5.chunk.js.map": "/whatsapp-link-maker/static/js/787.e4cbfae5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.063749c0.css",
-    "static/js/main.7fa5935a.js"
+    "static/js/main.a19cd65c.js"
   ]
 }
